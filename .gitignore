@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+mlruns/
+models/*.pkl
+models/*.joblib
+data/*.csv
+.pytest_cache/
+*.log
